@@ -4,5 +4,6 @@ CVCourse
 DSBootcamp
 DjangoFullStack
 Rover
-100_days_of_python
+#100_days_of_python
 .history
+__pycache__
