@@ -18,7 +18,3 @@ class Scoreboard(Turtle):
         self.goto(-25,0)
         self.pendown()
         self.write("Game Over", FONT)
-
-class Test(Turtle):
-    def __init__(self, shape: str = ..., undobuffersize: int = ..., visible: bool = ...) -> None:
-        super().__init__(shape=shape, undobuffersize=undobuffersize, visible=visible)
