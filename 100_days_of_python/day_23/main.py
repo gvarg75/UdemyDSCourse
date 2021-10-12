@@ -1,7 +1,7 @@
 import time
 from turtle import Screen
 from player import Player, STARTING_POSITION
-from car_manager import CarManager, Test
+from car_manager import CarManager
 from scoreboard import Scoreboard
 from random import random
 
@@ -15,8 +15,6 @@ player = Player()
 car = CarManager()
 scoreboard = Scoreboard()
 count = 0
-blah = Test('square')
-print(blah.colortest)
 
 game_is_on = True
 while game_is_on:
