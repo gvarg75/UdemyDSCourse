@@ -1,6 +1,8 @@
 import cv2
+import os
 
-img = cv2.imread('../DATA/00-puppy.jpg')
+
+img = cv2.imread('..\\DATA\\00-puppy.jpg')
 
 while True:
 
