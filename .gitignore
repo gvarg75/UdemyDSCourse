@@ -1,8 +1,22 @@
-<<<<<<< Updated upstream
 CVCourse\DATA\CATS_DOGS
-C:\Users\Gvargas\Documents\UdemyDSCourse\UdemyDSCourse\CVCourse\DATA
-CVCourse/DATA/CATS_DOGS
-CVCourse/06-Deep-Learning-Computer-Vision/06-YOLOv3/data/yolo.h5
-=======
-CVCourse/DATA/
->>>>>>> Stashed changes
+..\UdemyDSCourse
+CVCourse
+DSBootcamp
+DjangoFullStack
+Rover
+#100_days_of_python
+.history
+__pycache__
+
+100_days_of_python/day_32/Birthday_Wisher_Day32_start/main.py
+100_days_of_python/day_32/birthday-wisher-extrahard-start/main.py
+.vscode/launch.json
+100_days_of_python/day_33/issoverhead-start/main.py
+.vscode/settings.json
+OOP/ooptest.py
+OOP/ooptest2.py
+100_days_of_python/day_35/twilio_text_alert.py
+Job_Take_Homes
+100_days_of_python/day_36/stock-news-extrahard-start/.project_config
+100_days_of_python/day_39/flight-deals-start/example.http
+
